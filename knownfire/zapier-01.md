@@ -15,6 +15,7 @@ Zapier 就像是企業板的 Ifttt ，你可以設定當 A 服務觸發什麼機
 
 [![](https://dl.dropboxusercontent.com/u/6217074/blog/2015-11/zapier_use_cases.png)](https://zapier.com/app/use-cases)
 
+對於資訊人員，不用寫很多程式就能做到電腦能達到的功能真的蠻受用的。Zapier 的介面算是很平易近人，你可以自由決定資料如何串接，例如 google 試算表的表單填好直接產生 google calendar 的事件，你可以設定哪個欄位的資料要填到主旨，哪個填到指派人員...等等詳細的操作。
 仔細想想什麼功能能讓你的團隊事半功倍，就能好好利用它，不過免費版有以下一些限制，一定要注意 : 
 
 - 最多只能同時啟用 3 個機制
